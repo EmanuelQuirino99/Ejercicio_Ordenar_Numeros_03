@@ -61,4 +61,4 @@ Se requiere un programa en Java para determinar cuál es el número más pequeñ
 
 Etapa 03. Diseño de la Solución
 
-![(https://github.com/EmanuelQuirino99/Ejercicio_Ordenar_Numeros_03/blob/master/NumerosOrdenados.png)
+![(https://github.com/EmanuelQuirino99/Ejercicio_Ordenar_Numeros_03/blob/master/NumerosOrdenados.png)]
