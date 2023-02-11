@@ -19,9 +19,9 @@ public class NumerosOrdenados {
             System.out.println("El número intermedio es: " + b);
             System.out.println("El número menor es: " + c);
         } else {
-            System.out.println("El número mayor es; " + a);
-            System.out.println("El número intermedio es; " + b);
-            System.out.println("El número menor es; " + c );
+            System.out.println("El número menor es: " + a);
+            System.out.println("El número intermedio es: " + b);
+            System.out.println("El número mayor es: " + c );
 
         }
 
